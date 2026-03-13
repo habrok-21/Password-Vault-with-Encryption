@@ -23,7 +23,7 @@ Features :
 
 Installation / Running
 1) Clone the repository :
-git clone https://github.com/<username>/PasswordVault.git
+git clone https://github.com/habrok-21/Password-Vault-with-Encryption
 
 2) Open the folder in VS Code or any C++ IDE.
 
